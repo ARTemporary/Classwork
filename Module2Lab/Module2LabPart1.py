@@ -1,4 +1,3 @@
-# Name: Alice Radtke
 # Module 2 Lab Part 1 - Basics
 
 ## Variables and Basic Types
@@ -34,3 +33,4 @@ print(full_name)
 
 username = input("Enter your name: ")
 print ("Hello, " + username + "!")
+
