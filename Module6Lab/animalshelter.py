@@ -1,4 +1,3 @@
-## Author: Alice Radtke
 ## Animal Shelter Management System
 
 animal_shelter = []
@@ -42,4 +41,5 @@ print(str(get_animal_count()))
 adopt_animal("Daisy the Cat")
 
 print(str(get_animal_count()))
+
 
