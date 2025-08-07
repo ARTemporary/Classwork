@@ -1,5 +1,4 @@
 # Module 2 Lab Part 2 Challenge
-# Name: Alice Radtke
 # Description: Fortune Cookie App - displays personalized fortun for users
 
 print()
@@ -15,3 +14,4 @@ print(fortune, "\n")
 
 
 print("Thank you for using the Fortune Cookie App,", user_name + "!")
+
