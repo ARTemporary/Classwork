@@ -1,4 +1,3 @@
-## Name: Alice Radtke
 ## Date: 2025-07-06
 ## Description: Dad Joke App
 
@@ -38,5 +37,6 @@ for i in range(0,4):
         joke = dad_jokes.pop()
 
         print(joke + "\n")
+
 
 print("Goodbye!") # exit message
