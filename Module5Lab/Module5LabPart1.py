@@ -1,4 +1,3 @@
-# Author: Alice Radtke
 # Date: 2025/07/06
 # Description: Goldfish Playdate Planner
 
@@ -53,3 +52,4 @@ for i in range(0, len(goldfish), 2):
         print(goldfish[i] + " will have a playdate with " + goldfish[i + 1] + ".")
     else:
         print(goldfish[i] + " will have a solo play session.")
+
