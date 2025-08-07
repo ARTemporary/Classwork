@@ -1,4 +1,3 @@
-# Author: Alice Radtke
 # Date: June 28 2025
 # Random Integer Guessing Game
 
@@ -59,3 +58,4 @@ if got_it != True:      #Only print if the last guessing game failed
 
 
 print("Thanks for playing!")
+
