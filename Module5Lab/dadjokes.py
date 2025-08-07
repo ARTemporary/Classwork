@@ -1,4 +1,3 @@
-## Name: Alice Radtke
 ## Date: 2025-07-06
 ## Description: Dad Joke App
 
@@ -66,3 +65,4 @@ while True:
 
 
 print("Goodbye!") # exit message
+
